@@ -2,12 +2,12 @@
   "name": "discord-bot",
   "version": "1.0.0",
   "description": "A savage Discord bot built with Discord.js",
-  "main": "index.js",
+  "main": "VieVer.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node VieVer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Your Name",
+  "author": "npdk1",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^14.15.0"
