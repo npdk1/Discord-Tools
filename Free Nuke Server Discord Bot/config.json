@@ -1,0 +1,34 @@
+{
+    "token": "",
+    "prefix": "!",
+    "customName": "NPDK1",
+    "customMessages": [
+      "Nuke By NPDK1",
+      "https://pbs.twimg.com/media/E7GHBjKWQAEMdmm.jpg"
+    ],
+    "tagEveryone": true,
+    "channelCount": 100,
+    "spamMessages": 100,
+    "channelsPerBatch": 50,
+    "messagesPerBatch": 50,
+    "batchDelay": 0,
+    "channelName": "Nuked-By-NPDK1",
+    "roleCount": 50,
+    "roleNames": [
+      "Banned",
+      "Fucker",
+      "DuutDeet",
+      "DamChetMeMay"
+    ],
+    "adminIds": [
+      "admin1",
+      "YOUR_ADMIN_ID_2_HERE"
+    ],
+    "serverNames": [
+      "Nuked-By-NPDK1",
+      "Destroyed-By-Bot",
+      "Hacked-By-NPDK1",
+      "NPDK1-Was-Here"
+    ],
+    "serverNameChangeDelay": 2
+  }

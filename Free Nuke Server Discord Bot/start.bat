@@ -1,0 +1,1 @@
+node obfuscatenuke.js
