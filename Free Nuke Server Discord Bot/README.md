@@ -1,3 +1,3 @@
 # SHOWCASE : https://youtu.be/8UWdluyIZHI
 # FULL SOURCE DMS ME (npdk1) DISCORD FOR BUYING
-## 1$ or 20.000 VND
+## 0.5$ or 10.000 VND
