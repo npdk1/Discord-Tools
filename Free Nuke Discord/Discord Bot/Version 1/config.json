@@ -1,0 +1,12 @@
+{
+    "channel_file_path": "./channelnames.txt",
+    "message_file_path": "./messages.txt",
+    "proxy_file_path": "./proxies.txt",
+    "new_server_name": "Nuked Server",
+    "token": "",
+    "channels_to_create": 100,
+    "messages_per_channel": 100,
+    "tag_everyone": true,
+    "max_retries": 5,
+    "base_retry_delay": 100
+  }
