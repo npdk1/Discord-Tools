@@ -1,27 +1,3 @@
-process.env.NODE_TLS_REJECT_UNAUTHORIZED = 1;
-
-const config = require("./config");
-
-try {
-    require.resolve("discord.js-selfbot-v13");
-} catch (e) {
-    console.log("Please run: `npm install discord.js-selfbot-v13`");
-    process.exit(0);
-}
-
-try {
-    require.resolve("discord.js");
-} catch (e) {
-    console.log("Please run: `npm install discord.js`");
-    process.exit(0);
-}
-
-try {
-    require.resolve("axios");
-} catch (e) {
-    console.log("Please run: `npm install axios`");
-    process.exit(0);
-}
 
 const { Client } = require("discord.js-selfbot-v13");
 const { WebhookClient, EmbedBuilder } = require("discord.js");
