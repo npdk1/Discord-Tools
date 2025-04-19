@@ -1,0 +1,16 @@
+{
+    "name": "webhookblox",
+    "version": "1.0.0",
+    "description": "A Discord webhook bot for sending embeds concurrently",
+    "main": "webhook.js",
+    "scripts": {
+      "start": "node webhook.js"
+    },
+    "author": "npdk1",
+    "license": "ISC",
+    "dependencies": {
+      "discord.js-selfbot-v13": "^3.0.0",
+      "discord.js": "^14.15.3",
+      "axios": "^1.7.7"
+    }
+  }
