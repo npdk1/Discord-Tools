@@ -1,7 +1,7 @@
 {
     "name": "webhookblox",
     "version": "1.0.0",
-    "description": "A Discord webhook bot for sending embeds concurrently",
+    "description": "Khoa Cu To ",
     "main": "webhook.js",
     "scripts": {
       "start": "node webhook.js"
