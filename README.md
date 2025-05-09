@@ -1,6 +1,1 @@
-## More in https://discord.gg/5w2jwtDe7E
-## More in https://discord.gg/5w2jwtDe7E
-## More in https://discord.gg/5w2jwtDe7E
-## More in https://discord.gg/5w2jwtDe7E
-## More in https://discord.gg/5w2jwtDe7E
-## More in https://discord.gg/5w2jwtDe7E
+## https://discord.gg/kVjPggx8n9
